@@ -1,9 +1,9 @@
 {
   "name": "angular-translate-loader-static-files-ceky",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "main": "./angular-translate-loader-static-files.js",
   "dependencies": {
     "angular": "1.2.0",
-    "angular-translate-ceky": "~1.2.0"
+    "angular-translate-cekyy": "~1.2.0"
   }
 }
